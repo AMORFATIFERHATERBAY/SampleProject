@@ -1,0 +1,14 @@
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Service.deps.json
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Service.dll
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Service.pdb
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Core.dll
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Data.dll
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Core.pdb
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/bin/Debug/netcoreapp3.1/SampleProject.Data.pdb
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.csprojAssemblyReference.cache
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.AssemblyInfoInputs.cache
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.AssemblyInfo.cs
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.csproj.CoreCompileInputs.cache
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.csproj.CopyComplete
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.dll
+/Users/amorfati/Projects/SampleProject/SampleProject.Service/obj/Debug/netcoreapp3.1/SampleProject.Service.pdb
